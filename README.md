@@ -30,7 +30,7 @@ Design authentication form to check whether the user is an authorized person to 
 
 ### **Industrial Training**
 ### HCL-CDC
-Serving as the coordinating and communications link between Alumni and the University.Mobilizing support of Alumni for the betterment of the University through a network of Alumni chapters, Association committees and individual contacts.
+
 
 ---
 
