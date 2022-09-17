@@ -18,28 +18,27 @@ I am a Software engineer with an experience of over 3 years. I have hands on exp
 
 ## Experience
 
-### **SENIOR FRONTEND DEVELOPER**
-### MIRO
+### **Software Developer**
+### Foraysoft pvt ltd
 
 Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
 
-### **FRONTEND DEVELOPER**
-### Booking.com
+### **PHP DEVELOPER**
+### ZawSoft Web Solutions
+Involved in developing interactive web applications using a dynamic scripting language like php developed/design the application using xampp architecture.
+Design authentication form to check whether the user is an authorized person to use the system.Updating an internal server request tool by improving its user-interface and the service request process.
 
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
+### **Industrial Training**
+### HCL-CDC
 
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
-
+Serving as the coordinating and communications link between Alumni and the University.Mobilizing support of Alumni for the betterment of the University through a network of Alumni chapters, Association committees and individual contacts.Conducting targeted programs and activities designed to: strengthen the relationship between the University and its Alumni and friends; attract qualified students;recognize achievement and contributions to the University.
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Maulana Azad National Urdu University**
+### BTech Computer Science (2015 - 2018)
+PERCENTAGE 69.0
 
 ---
 
