@@ -31,6 +31,8 @@ Design authentication form to check whether the user is an authorized person to 
 ### **Industrial Training**
 ### HCL-CDC
 
+Serving as the coordinating and communications link between Alumni and the University.Mobilizing support of Alumni for the betterment of the University through a network of Alumni chapters, Association committees and individualcontacts.Conducting targeted programs and activities designed to: strengthen the relationship between the University and its Alumni and friends; attract qualified students; recognize achievement and contributions to the University.
+
 
 ---
 
