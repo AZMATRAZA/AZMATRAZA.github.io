@@ -38,7 +38,7 @@ Serving as the coordinating and communications link between Alumni and the Unive
 
 ## Education
 
-### **Maulana Azad National Urdu University**
+### **Maulana Azad National Urdu University - Hyderabad**
 ### BTech Computer Science (2015 - 2018)
 PERCENTAGE 69.0
 ### Diploma in Computer Science & Engineering (2012 - 2015)
