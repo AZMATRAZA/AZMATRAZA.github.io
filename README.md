@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Software engineer with an experience of over 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and typescript for 1 years.
+I am a Software engineer with an experience of over 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java for 1 years.
 
 ---
 
