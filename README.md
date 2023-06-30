@@ -27,7 +27,7 @@ I am a Software engineer with an experience of over 4 years. I have hands on exp
 • Facilitated easy upgrades for the product using a single command.
 
 
-### **PHP DEVELOPER**
+### **Software Developer**
 ### ZawSoft Web Solutions
 • Developed interactive web applications using Java and dynamic scripting languages.<br>
 • Designed authentication forms to verify user authorization for system access.<br>
