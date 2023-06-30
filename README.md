@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am Md Azmat Raza, a skilled software engineer with a passion for developing innovative solutions. With expertise in multiple programming languages and web development, I create efficient and user-friendly software applications. My strong problem-solving skills and experience in database management enable me to deliver high-quality solutions, I have hands on experience 4 years working with web frameworks and technologies. I have extensively worked on Java.
+Hello, and welcome to my portfolio! My name is Md Azmat Raza, and I am a passionate and dedicated software engineer. With a strong background in developing innovative solutions, I strive to create efficient and user-friendly software applications that solve complex problems. This portfolio provides an overview of my skills, projects, and experience in the field of software engineering., I have hands on experience 4 years working with web frameworks and technologies. I have extensively worked on Java.
 
 ---
 
