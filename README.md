@@ -20,6 +20,7 @@ Hello, and welcome to my portfolio! My name is Md Azmat Raza, and I am a passion
 
 ### **Software Developer**
 ### Foray software private limited - Deployed in TCS
+### Feb 2022 - Oct 2022
 
 • Worked on Ericsson Network Management (ENM) product set, which includes ENM ISO, LITP ISO, OS patches, SED xls file, and other 
      artifacts released to customers every 3 weeks.<br>
@@ -29,6 +30,7 @@ Hello, and welcome to my portfolio! My name is Md Azmat Raza, and I am a passion
 
 ### **Software Developer**
 ### Zawsoft Web Solutions
+### Aug 2018 - Jan 2022
 • Developed interactive web applications using Java and dynamic scripting languages.<br>
 • Designed authentication forms to verify user authorization for system access.<br>
 • Enhanced the user interface and service request process of an internal server request tool.
