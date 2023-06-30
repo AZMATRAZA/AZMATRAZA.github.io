@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Software engineer with an experience of over 3 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java for 1 years.
+I am a Software engineer with an experience of over 4 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java for 1 years.
 
 ---
 
@@ -21,12 +21,17 @@ I am a Software engineer with an experience of over 3 years. I have hands on exp
 ### **Software Developer**
 ### Foraysoft pvt ltd
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
+• Worked on Ericsson Network Management (ENM) product set, which includes ENM ISO, LITP ISO, OS patches, SED xls file, and other 
+  artifacts released to customers every 3 weeks.
+• Developed a unified network management system for telecom networks, providing operational support for 3G, LTE, 4G, and 5G technologies.
+• Facilitated easy upgrades for the product using a single command.
+
 
 ### **PHP DEVELOPER**
 ### ZawSoft Web Solutions
-Involved in developing interactive web applications using a dynamic scripting language like php developed/design the application using xampp architecture.
-Design authentication form to check whether the user is an authorized person to use the system.Updating an internal server request tool by improving its user-interface and the service request process.
+• Developed interactive web applications using Java and dynamic scripting languages.
+• Designed authentication forms to verify user authorization for system access.
+• Enhanced the user interface and service request process of an internal server request tool.
 
 ### **Industrial Training**
 ### HCL-CDC
@@ -38,11 +43,12 @@ Serving as the coordinating and communications link between Alumni and the Unive
 
 ## Education
 
-### **Maulana Azad National Urdu University - Hyderabad**
-### BTech Computer Science (2015 - 2018)
-PERCENTAGE 69%
-### Diploma in Computer Science & Engineering (2012 - 2015)
-PERCENTAGE 80%
+### **MAULANA AZAD NATIONAL URDU UNIVERSITY - CS & IT, Telangana, India**
+### Bachelor of Technology in Computer Science, July 2015 - July 2018
+Percentage: 69%
+### **MAULANA AZAD NATIONAL URDU UNIVERSITY - POLYTECHNIC, Telangana, India**
+### Diploma in Computer Science & Engineering, July 2012 - July 2015
+Percentage: 80%
 
 ---
 
