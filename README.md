@@ -22,13 +22,13 @@ I am a Software engineer with an experience of over 4 years. I have hands on exp
 ### Foray software pvt ltd
 
 • Worked on Ericsson Network Management (ENM) product set, which includes ENM ISO, LITP ISO, OS patches, SED xls file, and other 
-  artifacts released to customers every 3 weeks.<br>
+  &nbsp &nbsp artifacts released to customers every 3 weeks.<br>
 • Developed a unified network management system for telecom networks, providing operational support for 3G, LTE, 4G, and 5G technologies.<br>
 • Facilitated easy upgrades for the product using a single command.
 
 
 ### **Software Developer**
-### ZawSoft Web Solutions
+### Zawsoft Web Solutions
 • Developed interactive web applications using Java and dynamic scripting languages.<br>
 • Designed authentication forms to verify user authorization for system access.<br>
 • Enhanced the user interface and service request process of an internal server request tool.
