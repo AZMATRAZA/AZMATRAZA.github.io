@@ -1,6 +1,6 @@
 ## Portfolio
 
-I am a Software engineer with an experience of over 4 years. I have hands on experience working with web frameworks and technologies. I have extensively worked on Java for 1 years.
+I am Md Azmat Raza, a skilled software engineer with a passion for developing innovative solutions. With expertise in multiple programming languages and web development, I create efficient and user-friendly software applications. My strong problem-solving skills and experience in database management enable me to deliver high-quality solutions, I have hands on experience 4 years working with web frameworks and technologies. I have extensively worked on Java.
 
 ---
 
