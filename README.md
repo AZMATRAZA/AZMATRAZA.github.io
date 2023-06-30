@@ -11,7 +11,7 @@ I am a Software engineer with an experience of over 4 years. I have hands on exp
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png" alt="Java" width="96" height="96"/>
+   <img src="https://img.icons8.com/color/144/java-coffee-cup-logo--v1.png" alt="Java" width="40" height="40"/>
 </p>
 
 ---
