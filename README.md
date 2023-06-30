@@ -19,7 +19,7 @@ Hello, and welcome to my portfolio! My name is Md Azmat Raza, and I am a passion
 ## Experience
 
 ### **Software Developer**
-### Foray software pvt ltd
+### Foray software private limited - Deployed in TCS.
 
 • Worked on Ericsson Network Management (ENM) product set, which includes ENM ISO, LITP ISO, OS patches, SED xls file, and other 
      artifacts released to customers every 3 weeks.<br>
