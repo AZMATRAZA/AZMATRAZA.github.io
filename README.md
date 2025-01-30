@@ -21,7 +21,7 @@ Hello, and welcome to my portfolio! My name is Md Azmat Raza, and I am a passion
 ### Superb classes for computer science
 ### Oct 2022 - Present
 
-• Successfully coached over 1000 students oine, mentoring them on Full Stack development processes with JAVA, REACT,NODE, JAVASCRIPT, C, C++, HTML, CSS, PHP.
+• Successfully coached over 1000 students offline, mentoring them on Full Stack development processes with JAVA, REACT,NODE, JAVASCRIPT, C, C++, HTML, CSS, PHP.
 
 
 ### **Software Developer**
