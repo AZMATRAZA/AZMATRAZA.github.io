@@ -17,9 +17,15 @@ Hello, and welcome to my portfolio! My name is Md Azmat Raza, and I am a passion
 ---
 
 ## Experience
+### **Full Stack Instructor**
+### Superb classes for computer science
+### Oct 2022 - Present
+
+• Successfully coached over 1000 students oine, mentoring them on Full Stack development processes with JAVA, REACT,NODE, JAVASCRIPT, C, C++, HTML, CSS, PHP.
+
 
 ### **Software Developer**
-### Foray software private limited - Deployed in TCS
+### Tata Consultancy Services
 ### Feb 2022 - Oct 2022
 
 • Worked on Ericsson Network Management (ENM) product set, which includes ENM ISO, LITP ISO, OS patches, SED xls file, and other 
